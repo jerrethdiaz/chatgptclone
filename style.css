@@ -1,0 +1,28 @@
+div.nav-item.nav-link {
+  color: #ff8bff;
+}
+#topMenu {
+  background-color: #193718;
+  position: sticky;
+}
+#middleMenu {
+  background-color: #193718;
+  color: #ff8bff;
+}
+#centerText {
+  color: black;
+  height: 500px;
+}
+footer{
+  background-color: #193718;
+  color: #ff8bff;
+}
+.five-col-grid .col {
+  flex: 0 0 20%;  /* since 100% / 5 columns = 20% */
+  max-width: 20%;
+}
+.inline-list {
+  list-style-type: none;  /* removes the default bullet points */
+  padding: 0;             /* removes the default padding */
+  margin: 0;              /* removes the default margin */
+}
